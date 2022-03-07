@@ -9,6 +9,7 @@ const MyApp = ({ Component, pageProps }) => {
         {`
           body {
             margin: 0;
+            font-family: Noto Sans, Noto Sans KR;
           }
         `}
       </style>
